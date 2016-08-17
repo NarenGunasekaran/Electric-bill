@@ -1,0 +1,17 @@
+C:\Users\Naren\documents\visual studio 2010\Projects\Myproject\Myproject\bin\Debug\Myproject.exe
+C:\Users\Naren\documents\visual studio 2010\Projects\Myproject\Myproject\bin\Debug\Myproject.pdb
+C:\Users\Naren\documents\visual studio 2010\Projects\Myproject\Myproject\obj\x86\Debug\Myproject.Form1.resources
+C:\Users\Naren\documents\visual studio 2010\Projects\Myproject\Myproject\obj\x86\Debug\Myproject.Mainpage.resources
+C:\Users\Naren\documents\visual studio 2010\Projects\Myproject\Myproject\obj\x86\Debug\Myproject.Properties.Resources.resources
+C:\Users\Naren\documents\visual studio 2010\Projects\Myproject\Myproject\obj\x86\Debug\Myproject.csproj.GenerateResource.Cache
+C:\Users\Naren\documents\visual studio 2010\Projects\Myproject\Myproject\obj\x86\Debug\Myproject.exe
+C:\Users\Naren\documents\visual studio 2010\Projects\Myproject\Myproject\obj\x86\Debug\Myproject.pdb
+C:\Users\Naren\documents\visual studio 2010\Projects\Myproject\Myproject\obj\x86\Debug\Myproject.Customer.resources
+C:\Users\Naren\documents\visual studio 2010\Projects\Myproject\Myproject\bin\Debug\waterbill.mdf
+C:\Users\Naren\documents\visual studio 2010\Projects\Myproject\Myproject\bin\Debug\waterbill_log.ldf
+C:\Users\Naren\documents\visual studio 2010\Projects\Myproject\Myproject\bin\Debug\Myproject.exe.config
+C:\Users\Naren\documents\visual studio 2010\Projects\Myproject\Myproject\obj\x86\Debug\Myproject.cust_update.resources
+C:\Users\Naren\Documents\Visual Studio 2010\Projects\Myproject\Myproject\obj\x86\Debug\Myproject.csprojResolveAssemblyReference.cache
+C:\Users\Naren\documents\visual studio 2010\Projects\Myproject\Myproject\obj\x86\Debug\Myproject.view_customer.resources
+C:\Users\Naren\Documents\Visual Studio 2010\Projects\Myproject\Myproject\obj\x86\Debug\Myproject.reports.resources
+C:\Users\Naren\documents\visual studio 2010\Projects\Myproject\Myproject\obj\x86\Debug\Myproject.bill.resources
